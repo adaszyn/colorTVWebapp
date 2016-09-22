@@ -20,6 +20,7 @@ from their own directories. Weather app will be hosted on 8000 port.
 
 *Please ensure that both applications are running at the same time.*
 
+App is hosted on  https://zeit.co/now/. Working demo is available on https://colortv-webpage-akrrvbyuyu.now.sh.
 
   ---
 Copyright (c) 2016 Wojciech Adaszyński All Rights Reserved.
